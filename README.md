@@ -4,31 +4,41 @@ A modern, real-time chat application built using React, Node.js, and Socket.IO t
 
 ---
 
+## 🌐 Live Demo  
+🔗 https://696cee52549c29f7fdd4ccf6--fantastic-crepe-e82072.netlify.app/
+
+---
+
+## 🧑‍💻 GitHub Repository  
+🔗 https://github.com/Addas31/chat-app
+
+---
+
 ## 🚀 Features
 
-- 🔴 Real-time messaging using WebSockets (Socket.IO)
-- 👤 Username-based login
-- 💬 Instant message broadcast to all connected users
-- 🕒 Message timestamps
-- 🎨 Modern, responsive UI with clean padding, alignment, and colors
-- 📱 Works across multiple tabs and devices (same network)
-- ⚡ Fast frontend powered by Vite + React
+- 🔴 Real-time messaging using WebSockets (Socket.IO)  
+- 👤 Username-based login  
+- 💬 Instant message broadcast to all connected users  
+- 🕒 Message timestamps  
+- 🎨 Modern, responsive UI with clean padding, alignment, and colors  
+- 📱 Works across multiple tabs and devices (same network)  
+- ⚡ Fast frontend powered by Vite + React  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React
-- Vite
-- CSS (custom modern styling)
-- Socket.IO Client
+- React  
+- Vite  
+- CSS (custom modern styling)  
+- Socket.IO Client  
 
 ### Backend
-- Node.js
-- Express.js
-- Socket.IO
-- CORS
+- Node.js  
+- Express.js  
+- Socket.IO  
+- CORS  
 
 ---
 
@@ -98,40 +108,49 @@ To access the app from another laptop or mobile:
 npm run dev -- --host
 ```
 
-- Ensure all devices are on the same Wi-Fi network
-- Open the Network URL shown in the terminal on other devices
+- Ensure all devices are on the same Wi-Fi network  
+- Open the Network URL shown in the terminal on other devices  
 
 ---
 
 ## 🧠 How It Works
 
-- The frontend establishes a persistent WebSocket connection with the backend.
-- When a user sends a message, it is emitted to the server.
-- The server broadcasts the message to all connected clients instantly.
-- This enables real-time communication without page refresh.
+- The frontend establishes a persistent WebSocket connection with the backend.  
+- When a user sends a message, it is emitted to the server.  
+- The server broadcasts the message to all connected clients instantly.  
+- This enables real-time communication without page refresh.  
 
 ---
 
 ## 🎯 Project Purpose
 
 This project demonstrates:
-- Real-time communication using WebSockets
-- Full-stack development using modern technologies
-- Clean and responsive UI design
-- Practical implementation suitable for internships and academic projects
+
+- Real-time communication using WebSockets  
+- Full-stack development using modern technologies  
+- Clean and responsive UI design  
+- Practical implementation suitable for internships and academic projects  
 
 ---
 
 ## 📌 Future Enhancements
 
-- 👥 Online users list
-- 🧩 Chat rooms
-- 🗄️ MongoDB database integration
-- 🔐 Authentication system
-- ☁️ Cloud deployment
+- 👥 Online users list  
+- 🧩 Chat rooms  
+- 🗄️ MongoDB database integration  
+- 🔐 Authentication system  
+- ☁️ Cloud deployment  
 
 ---
 
 ## 👨‍💻 Author
 
-Developed as part of an internship task to showcase real-time web application development using React, Node.js, and Socket.IO.
+**Aliva Dipali Das**  
+GitHub: https://github.com/Addas31  
+
+---
+
+## ⭐ Show Some Love
+
+If you like this project, please give it a ⭐ on GitHub  
+It motivates me to build more!

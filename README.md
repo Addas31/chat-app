@@ -5,7 +5,8 @@ A modern, real-time chat application built using React, Node.js, and Socket.IO t
 ---
 
 ## 🌐 Live Demo  
-🔗 https://696cee52549c29f7fdd4ccf6--fantastic-crepe-e82072.netlify.app/
+🔗 [https://696cee52549c29f7fdd4ccf6--fantastic-crepe-e82072.netlify.app/](https://fantastic-crepe-e82072.netlify.app/)
+🔗 
 
 ---
 
